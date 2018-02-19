@@ -1,0 +1,347 @@
+*vertices 171
+1 Grong 0.0 0.0 ellipse
+2 Stjoerdal 0.0 0.0 ellipse
+3 Oslo 0.0 0.0 ellipse
+4 Nodeland 0.0 0.0 ellipse
+5 Heimdal 0.0 0.0 ellipse
+6 Loeten 0.0 0.0 ellipse
+7 Oeysleboe 0.0 0.0 ellipse
+8 Bellingmo 0.0 0.0 ellipse
+9 Oppdal 0.0 0.0 ellipse
+10 Trofors 0.0 0.0 ellipse
+11 Soerumsand 0.0 0.0 ellipse
+12 Larvik 0.0 0.0 ellipse
+13 Kristiansand 0.0 0.0 ellipse
+14 Tangen 0.0 0.0 ellipse
+15 Tolga 0.0 0.0 ellipse
+16 Moerkved 0.0 0.0 ellipse
+17 Moi 0.0 0.0 ellipse
+18 Majavatn 0.0 0.0 ellipse
+19 Harran 0.0 0.0 ellipse
+20 Vennesla 0.0 0.0 ellipse
+21 Geilo 0.0 0.0 ellipse
+22 Berkak 0.0 0.0 ellipse
+23 Hunderfossen 0.0 0.0 ellipse
+24 Egersund 0.0 0.0 ellipse
+25 Atna 0.0 0.0 ellipse
+26 Snartemo 0.0 0.0 ellipse
+27 Storekvina 0.0 0.0 ellipse
+28 Audnedal 0.0 0.0 ellipse
+29 Drangedal 0.0 0.0 ellipse
+30 Os 0.0 0.0 ellipse
+31 Mosjoeen 0.0 0.0 ellipse
+32 Roeros 0.0 0.0 ellipse
+33 Sande 0.0 0.0 ellipse
+34 Rognes 0.0 0.0 ellipse
+35 National-theatret 0.0 0.0 ellipse
+36 Rustad 0.0 0.0 ellipse
+37 Dombas 0.0 0.0 ellipse
+38 Hell 0.0 0.0 ellipse
+39 Steinvik 0.0 0.0 ellipse
+40 Kjose 0.0 0.0 ellipse
+41 Auma 0.0 0.0 ellipse
+42 Fauske 0.0 0.0 ellipse
+43 Vaemes 0.0 0.0 ellipse
+44 "Sandnes Sentrum" 0.0 0.0 ellipse
+45 Opphus 0.0 0.0 ellipse
+46 Skonseng 0.0 0.0 ellipse
+47 Elverum 0.0 0.0 ellipse
+48 Stavanger 0.0 0.0 ellipse
+49 Lassemoen 0.0 0.0 ellipse
+50 Bjorli 0.0 0.0 ellipse
+51 Ski 0.0 0.0 ellipse
+52 Finse 0.0 0.0 ellipse
+53 Oklungen 0.0 0.0 ellipse
+54 Mysen 0.0 0.0 ellipse
+55 Andalsnes 0.0 0.0 ellipse
+56 Lysaker 0.0 0.0 ellipse
+57 Flam 0.0 0.0 ellipse
+58 Rognan 0.0 0.0 ellipse
+59 Arendal 0.0 0.0 ellipse
+60 "Melhus Skysstasjon" 0.0 0.0 ellipse
+61 Rygge 0.0 0.0 ellipse
+62 Hoenefoss 0.0 0.0 ellipse
+63 Arna 0.0 0.0 ellipse
+64 Glamos 0.0 0.0 ellipse
+65 Hallingskeid 0.0 0.0 ellipse
+66 Boe 0.0 0.0 ellipse
+67 Nordagutu 0.0 0.0 ellipse
+68 Roa 0.0 0.0 ellipse
+69 Hamar 0.0 0.0 ellipse
+70 Jaren 0.0 0.0 ellipse
+71 Gjerstad 0.0 0.0 ellipse
+72 Haltdalen 0.0 0.0 ellipse
+73 Snasa 0.0 0.0 ellipse
+74 "Storlien grense" 0.0 0.0 ellipse
+75 Rade 0.0 0.0 ellipse
+76 Skien 0.0 0.0 ellipse
+77 Porsgrunn 0.0 0.0 ellipse
+78 Skoppum 0.0 0.0 ellipse
+79 Ustaoset 0.0 0.0 ellipse
+80 Otta 0.0 0.0 ellipse
+81 Koppang 0.0 0.0 ellipse
+82 Dale 0.0 0.0 ellipse
+83 Lillehammer 0.0 0.0 ellipse
+84 Hanestad 0.0 0.0 ellipse
+85 Bolna 0.0 0.0 ellipse
+86 Kongsvoll 0.0 0.0 ellipse
+87 Holmestrand 0.0 0.0 ellipse
+88 Voss 0.0 0.0 ellipse
+89 Dovre 0.0 0.0 ellipse
+90 Lillestroem 0.0 0.0 ellipse
+91 Sarpsborg 0.0 0.0 ellipse
+92 Moss 0.0 0.0 ellipse
+93 Trondheim 0.0 0.0 ellipse
+94 Ames 0.0 0.0 ellipse
+95 Toenberg 0.0 0.0 ellipse
+96 Stai 0.0 0.0 ellipse
+97 Marnardal 0.0 0.0 ellipse
+98 Eikenes 0.0 0.0 ellipse
+99 Halden 0.0 0.0 ellipse
+100 Gyland 0.0 0.0 ellipse
+101 Sonsveien 0.0 0.0 ellipse
+102 "Mo I Rana" 0.0 0.0 ellipse
+103 Namsskogan 0.0 0.0 ellipse
+104 Hafjell 0.0 0.0 ellipse
+105 Fla 0.0 0.0 ellipse
+106 Stange 0.0 0.0 ellipse
+107 "Charlottenberg grense" 0.0 0.0 ellipse
+108 Sira 0.0 0.0 ellipse
+109 Lesjaverk 0.0 0.0 ellipse
+110 Nesbyen 0.0 0.0 ellipse
+111 Alvdal 0.0 0.0 ellipse
+112 Roekland 0.0 0.0 ellipse
+113 Singsas 0.0 0.0 ellipse
+114 Kvitfjell 0.0 0.0 ellipse
+115 Kotsoey 0.0 0.0 ellipse
+116 Bodoe 0.0 0.0 ellipse
+117 Lunde 0.0 0.0 ellipse
+118 Mjoelfjell 0.0 0.0 ellipse
+119 Raitan 0.0 0.0 ellipse
+120 Verdal 0.0 0.0 ellipse
+121 Bergen 0.0 0.0 ellipse
+122 Neslandsvatn 0.0 0.0 ellipse
+123 Gol 0.0 0.0 ellipse
+124 Evenstad 0.0 0.0 ellipse
+125 Kvam 0.0 0.0 ellipse
+126 Brumunddal 0.0 0.0 ellipse
+127 Lesja 0.0 0.0 ellipse
+128 Tynset 0.0 0.0 ellipse
+129 Nelaug 0.0 0.0 ellipse
+130 Drewatn 0.0 0.0 ellipse
+131 Svenningdal 0.0 0.0 ellipse
+132 Torp 0.0 0.0 ellipse
+133 Stoeren 0.0 0.0 ellipse
+134 Steinkjer 0.0 0.0 ellipse
+135 Eldsvoll 0.0 0.0 ellipse
+136 Dunderland 0.0 0.0 ellipse
+137 Langlete 0.0 0.0 ellipse
+138 Gjoevik 0.0 0.0 ellipse
+139 Vaksdal 0.0 0.0 ellipse
+140 Kongsberg 0.0 0.0 ellipse
+141 Levanger 0.0 0.0 ellipse
+142 Hjerkinn 0.0 0.0 ellipse
+143 Joerstad 0.0 0.0 ellipse
+144 Bjerka 0.0 0.0 ellipse
+145 Vikersund 0.0 0.0 ellipse
+146 Valnesfjord 0.0 0.0 ellipse
+147 Stokke 0.0 0.0 ellipse
+148 Kambo 0.0 0.0 ellipse
+149 Fredrikstad 0.0 0.0 ellipse
+150 Asker 0.0 0.0 ellipse
+151 Gardermoen 0.0 0.0 ellipse
+152 Ringebu 0.0 0.0 ellipse
+153 Upsete 0.0 0.0 ellipse
+154 Alen 0.0 0.0 ellipse
+155 Bryne 0.0 0.0 ellipse
+156 Kongsvinger 0.0 0.0 ellipse
+157 Vergardshei 0.0 0.0 ellipse
+158 Rena 0.0 0.0 ellipse
+159 Moelv 0.0 0.0 ellipse
+160 Drammen 0.0 0.0 ellipse
+161 Haugastoel 0.0 0.0 ellipse
+162 Vestby 0.0 0.0 ellipse
+163 Al 0.0 0.0 ellipse
+164 Vinstra 0.0 0.0 ellipse
+165 Hokksund 0.0 0.0 ellipse
+166 Ilseng 0.0 0.0 ellipse
+167 As 0.0 0.0 ellipse
+168 Loensdal 0.0 0.0 ellipse
+169 Myrdal 0.0 0.0 ellipse
+170 Breland 0.0 0.0 ellipse
+171 Sandefjord 0.0 0.0 ellipse
+*edges
+1 73 1.0
+1 19 1.0
+2 141 1.0
+2 43 1.0
+3 68 1.0
+3 90 1.0
+3 51 1.0
+3 35 1.0
+4 13 1.0
+4 170 1.0
+5 93 1.0
+5 60 1.0
+6 166 1.0
+6 47 1.0
+7 170 1.0
+7 97 1.0
+8 111 1.0
+8 84 1.0
+9 22 1.0
+9 86 1.0
+10 131 1.0
+10 31 1.0
+11 94 1.0
+11 90 1.0
+12 40 1.0
+12 171 1.0
+13 20 1.0
+14 135 1.0
+14 106 1.0
+15 30 1.0
+15 128 1.0
+16 146 1.0
+16 116 1.0
+17 24 1.0
+17 108 1.0
+18 103 1.0
+18 131 1.0
+19 49 1.0
+20 129 1.0
+21 79 1.0
+21 163 1.0
+22 133 1.0
+23 83 1.0
+23 104 1.0
+24 155 1.0
+25 84 1.0
+25 81 1.0
+26 28 1.0
+26 27 1.0
+27 100 1.0
+28 97 1.0
+29 117 1.0
+29 122 1.0
+30 32 1.0
+31 130 1.0
+32 64 1.0
+33 87 1.0
+33 160 1.0
+34 115 1.0
+34 133 1.0
+35 56 1.0
+36 158 1.0
+36 47 1.0
+37 127 1.0
+37 89 1.0
+37 142 1.0
+38 93 1.0
+38 74 1.0
+38 43 1.0
+39 158 1.0
+39 45 1.0
+40 98 1.0
+41 111 1.0
+41 128 1.0
+42 146 1.0
+42 58 1.0
+44 48 1.0
+44 155 1.0
+45 124 1.0
+46 102 1.0
+46 136 1.0
+49 103 1.0
+50 109 1.0
+50 55 1.0
+51 167 1.0
+51 54 1.0
+52 65 1.0
+52 161 1.0
+53 77 1.0
+53 98 1.0
+54 91 1.0
+56 150 1.0
+57 169 1.0
+58 112 1.0
+59 129 1.0
+60 133 1.0
+61 75 1.0
+61 92 1.0
+62 105 1.0
+62 68 1.0
+62 145 1.0
+63 139 1.0
+63 121 1.0
+64 119 1.0
+65 169 1.0
+66 67 1.0
+66 117 1.0
+67 76 1.0
+67 140 1.0
+68 70 1.0
+69 166 1.0
+69 106 1.0
+69 126 1.0
+70 138 1.0
+71 122 1.0
+71 157 1.0
+72 154 1.0
+72 137 1.0
+73 143 1.0
+75 149 1.0
+76 77 1.0
+78 87 1.0
+78 95 1.0
+79 161 1.0
+80 89 1.0
+80 125 1.0
+81 96 1.0
+82 88 1.0
+82 139 1.0
+83 159 1.0
+85 136 1.0
+85 168 1.0
+86 142 1.0
+88 118 1.0
+90 151 1.0
+91 149 1.0
+91 99 1.0
+92 148 1.0
+94 156 1.0
+95 147 1.0
+96 124 1.0
+100 108 1.0
+101 148 1.0
+101 162 1.0
+102 144 1.0
+104 114 1.0
+105 110 1.0
+107 156 1.0
+109 127 1.0
+110 123 1.0
+112 168 1.0
+113 137 1.0
+113 115 1.0
+114 152 1.0
+118 153 1.0
+119 154 1.0
+120 134 1.0
+120 141 1.0
+123 163 1.0
+125 164 1.0
+126 159 1.0
+129 157 1.0
+130 144 1.0
+132 147 1.0
+132 171 1.0
+134 143 1.0
+135 151 1.0
+140 165 1.0
+145 165 1.0
+150 160 1.0
+152 164 1.0
+153 169 1.0
+160 165 1.0
+162 167 1.0

@@ -1,0 +1,158 @@
+*vertices 78
+1 Sharon 0.0 0.0 ellipse
+2 Islington 0.0 0.0 ellipse
+3 Kingston 0.0 0.0 ellipse
+4 "Nantasket Junction" 0.0 0.0 ellipse
+5 Mansfield 0.0 0.0 ellipse
+6 Bridgewater 0.0 0.0 ellipse
+7 Providence 0.0 0.0 ellipse
+8 Greenbush 0.0 0.0 ellipse
+9 Ashland 0.0 0.0 ellipse
+10 "West Roxbury" 0.0 0.0 ellipse
+11 "Needham Center" 0.0 0.0 ellipse
+12 "Norwood Central" 0.0 0.0 ellipse
+13 "Holbrook/ Randolph" 0.0 0.0 ellipse
+14 Plimptonville 0.0 0.0 ellipse
+15 "North Scituate" 0.0 0.0 ellipse
+16 "East Weymouth" 0.0 0.0 ellipse
+17 "Forge Park / 495" 0.0 0.0 ellipse
+18 Whitman 0.0 0.0 ellipse
+19 "South Attleboro" 0.0 0.0 ellipse
+20 "Route 128" 0.0 0.0 ellipse
+21 JFK/UMASS 0.0 0.0 ellipse
+22 "West Natick" 0.0 0.0 ellipse
+23 "Wellesley Farms" 0.0 0.0 ellipse
+24 Auburndale 0.0 0.0 ellipse
+25 "Norwood Depot" 0.0 0.0 ellipse
+26 Grafton 0.0 0.0 ellipse
+27 "Quincy Center" 0.0 0.0 ellipse
+28 Braintree 0.0 0.0 ellipse
+29 Abington 0.0 0.0 ellipse
+30 Westborough 0.0 0.0 ellipse
+31 "West Newton" 0.0 0.0 ellipse
+32 "Needham Junction" 0.0 0.0 ellipse
+33 Campello 0.0 0.0 ellipse
+34 Southborough 0.0 0.0 ellipse
+35 Brockton 0.0 0.0 ellipse
+36 "Canton Center" 0.0 0.0 ellipse
+37 "TF Green Airport" 0.0 0.0 ellipse
+38 "Wellesley Hills" 0.0 0.0 ellipse
+39 "Middleboro/ Lakeville" 0.0 0.0 ellipse
+40 "Dedham Corp Center" 0.0 0.0 ellipse
+41 Norfolk 0.0 0.0 ellipse
+42 Attleboro 0.0 0.0 ellipse
+43 Cohasset 0.0 0.0 ellipse
+44 "Worcester / Union Station" 0.0 0.0 ellipse
+45 "Wellesley Square" 0.0 0.0 ellipse
+46 Hanson 0.0 0.0 ellipse
+47 Hersey 0.0 0.0 ellipse
+48 "Needham Heights" 0.0 0.0 ellipse
+49 "South Station" 0.0 0.0 ellipse
+50 Newtonville 0.0 0.0 ellipse
+51 Plymouth 0.0 0.0 ellipse
+52 Walpole 0.0 0.0 ellipse
+53 Natick 0.0 0.0 ellipse
+54 "Back Bay" 0.0 0.0 ellipse
+55 Ruggles 0.0 0.0 ellipse
+56 Bellevue 0.0 0.0 ellipse
+57 Highland 0.0 0.0 ellipse
+58 "Forest Hills" 0.0 0.0 ellipse
+59 Yawkey 0.0 0.0 ellipse
+60 Endicott 0.0 0.0 ellipse
+61 "Windsor Gardens" 0.0 0.0 ellipse
+62 Fairmount 0.0 0.0 ellipse
+63 Stoughton 0.0 0.0 ellipse
+64 "Hyde Park" 0.0 0.0 ellipse
+65 "Uphams Corner" 0.0 0.0 ellipse
+66 "Talbot Avenue" 0.0 0.0 ellipse
+67 "Roslindale Village" 0.0 0.0 ellipse
+68 Montello 0.0 0.0 ellipse
+69 "Weymouth Landing/ East Braintree" 0.0 0.0 ellipse
+70 Readville 0.0 0.0 ellipse
+71 "Wickford Junction" 0.0 0.0 ellipse
+72 Framingham 0.0 0.0 ellipse
+73 "Morton Street" 0.0 0.0 ellipse
+74 "Canton Junction" 0.0 0.0 ellipse
+75 Halifax 0.0 0.0 ellipse
+76 "West Hingham" 0.0 0.0 ellipse
+77 "South Weymouth" 0.0 0.0 ellipse
+78 Franklin 0.0 0.0 ellipse
+*edges
+1 20 1.0
+1 5 1.0
+2 25 1.0
+2 40 1.0
+3 75 1.0
+4 43 1.0
+4 76 1.0
+5 42 1.0
+6 39 1.0
+6 33 1.0
+7 19 1.0
+7 37 1.0
+8 15 1.0
+9 34 1.0
+9 72 1.0
+10 57 1.0
+10 47 1.0
+11 48 1.0
+11 32 1.0
+12 25 1.0
+12 61 1.0
+13 68 1.0
+13 28 1.0
+14 52 1.0
+14 61 1.0
+15 43 1.0
+16 69 1.0
+16 76 1.0
+17 78 1.0
+18 46 1.0
+18 29 1.0
+19 42 1.0
+20 64 1.0
+20 74 1.0
+21 49 1.0
+21 27 1.0
+22 72 1.0
+22 53 1.0
+23 38 1.0
+23 24 1.0
+24 31 1.0
+26 30 1.0
+26 44 1.0
+27 28 1.0
+27 69 1.0
+28 77 1.0
+29 77 1.0
+30 34 1.0
+31 50 1.0
+32 47 1.0
+33 35 1.0
+35 68 1.0
+36 74 1.0
+36 63 1.0
+37 71 1.0
+38 45 1.0
+40 60 1.0
+41 52 1.0
+41 78 1.0
+45 53 1.0
+46 75 1.0
+49 65 1.0
+49 54 1.0
+50 59 1.0
+51 75 1.0
+54 59 1.0
+54 55 1.0
+55 64 1.0
+55 58 1.0
+56 57 1.0
+56 67 1.0
+58 67 1.0
+60 70 1.0
+62 70 1.0
+62 73 1.0
+64 70 1.0
+65 66 1.0
+66 73 1.0

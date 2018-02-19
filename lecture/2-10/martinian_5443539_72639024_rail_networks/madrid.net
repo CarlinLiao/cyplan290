@@ -1,0 +1,189 @@
+*vertices 92
+1 Valdemoro 0.0 0.0 ellipse
+2 Majadahonda 0.0 0.0 ellipse
+3 Mostoles 0.0 0.0 ellipse
+4 "Collado Mediano" 0.0 0.0 ellipse
+5 "Las Margaritas Univ." 0.0 0.0 ellipse
+6 Villalba 0.0 0.0 ellipse
+7 "Fuente de La Mora" 0.0 0.0 ellipse
+8 "Las Matas" 0.0 0.0 ellipse
+9 Orcasitas 0.0 0.0 ellipse
+10 "San Yago" 0.0 0.0 ellipse
+11 "Doce de Octubre" 0.0 0.0 ellipse
+12 "Las Zorreras" 0.0 0.0 ellipse
+13 "S. Cristobal Industrial" 0.0 0.0 ellipse
+14 Ciempozuelos 0.0 0.0 ellipse
+15 Chamartin 0.0 0.0 ellipse
+16 Azuqueca 0.0 0.0 ellipse
+17 "Cantoblanco Univ." 0.0 0.0 ellipse
+18 Atocha 0.0 0.0 ellipse
+19 Alcorcon 0.0 0.0 ellipse
+20 Humanes 0.0 0.0 ellipse
+21 Aravaca 0.0 0.0 ellipse
+22 Pitis 0.0 0.0 ellipse
+23 "Sta. Eugenia" 0.0 0.0 ellipse
+24 "Alcobendas S.S. de los Reyes" 0.0 0.0 ellipse
+25 Zarzaquemada 0.0 0.0 ellipse
+26 Vicalvaro 0.0 0.0 ellipse
+27 Fanjul 0.0 0.0 ellipse
+28 "Mendes Alvaro" 0.0 0.0 ellipse
+29 "Aeropuerto T4" 0.0 0.0 ellipse
+30 "Ramon y Cajal" 0.0 0.0 ellipse
+31 "Soto del Henares" 0.0 0.0 ellipse
+32 "San Fernando" 0.0 0.0 ellipse
+33 "Jose de Valderas" 0.0 0.0 ellipse
+34 Aranjuez 0.0 0.0 ellipse
+35 "Mostoles-El Soto" 0.0 0.0 ellipse
+36 Leganes 0.0 0.0 ellipse
+37 "Tres Cantos" 0.0 0.0 ellipse
+38 Embajadores 0.0 0.0 ellipse
+39 "Alcala de Henares" 0.0 0.0 ellipse
+40 "Pto. Navacerrada" 0.0 0.0 ellipse
+41 "Getafe Sector 3" 0.0 0.0 ellipse
+42 "Las Rozas" 0.0 0.0 ellipse
+43 Recoletos 0.0 0.0 ellipse
+44 "Los Negrales" 0.0 0.0 ellipse
+45 "A. M. Entrevias" 0.0 0.0 ellipse
+46 "Torrejon de Ardoz" 0.0 0.0 ellipse
+47 "Galapagar - La Navata" 0.0 0.0 ellipse
+48 Cotos 0.0 0.0 ellipse
+49 "Las Aguilas" 0.0 0.0 ellipse
+50 "El Escorial" 0.0 0.0 ellipse
+51 Valdebebas 0.0 0.0 ellipse
+52 Delicias 0.0 0.0 ellipse
+53 "Villaverde Bajo" 0.0 0.0 ellipse
+54 "El Goloso" 0.0 0.0 ellipse
+55 Aluche 0.0 0.0 ellipse
+56 "Puente Alcocer" 0.0 0.0 ellipse
+57 Torrelodones 0.0 0.0 ellipse
+58 Alpedrete 0.0 0.0 ellipse
+59 Meco 0.0 0.0 ellipse
+60 "Univ. P. Comillas" 0.0 0.0 ellipse
+61 Guadalajara 0.0 0.0 ellipse
+62 "La Serna" 0.0 0.0 ellipse
+63 "Colmenar Viejo" 0.0 0.0 ellipse
+64 "Villaverde Alto" 0.0 0.0 ellipse
+65 "Mirasierra - Paco de Lucia" 0.0 0.0 ellipse
+66 "Los Molinos" 0.0 0.0 ellipse
+67 Pinto 0.0 0.0 ellipse
+68 "Getafe Industrial" 0.0 0.0 ellipse
+69 "El Barrial C.C." 0.0 0.0 ellipse
+70 "Principe Pio" 0.0 0.0 ellipse
+71 Coslada 0.0 0.0 ellipse
+72 "La Garena" 0.0 0.0 ellipse
+73 "Las Retamas" 0.0 0.0 ellipse
+74 Piramides 0.0 0.0 ellipse
+75 "Parque Polvoranca" 0.0 0.0 ellipse
+76 Pozuelo 0.0 0.0 ellipse
+77 "Getafe Centro" 0.0 0.0 ellipse
+78 Parla 0.0 0.0 ellipse
+79 "N. Ministerios" 0.0 0.0 ellipse
+80 Laguna 0.0 0.0 ellipse
+81 Fuenlabrada 0.0 0.0 ellipse
+82 "El Casar" 0.0 0.0 ellipse
+83 "El Pozo" 0.0 0.0 ellipse
+84 Pinar 0.0 0.0 ellipse
+85 Valdelasfuentes 0.0 0.0 ellipse
+86 Vallecas 0.0 0.0 ellipse
+87 "Cuatro Vientos" 0.0 0.0 ellipse
+88 Cercedilla 0.0 0.0 ellipse
+89 Sol 0.0 0.0 ellipse
+90 Fuencarral 0.0 0.0 ellipse
+91 "Alcala Henares Univ." 0.0 0.0 ellipse
+92 "S. Cristobal de los Angeles" 0.0 0.0 ellipse
+*edges
+1 67 1.0
+1 14 1.0
+2 42 1.0
+2 69 1.0
+3 73 1.0
+3 35 1.0
+4 58 1.0
+4 66 1.0
+5 77 1.0
+5 64 1.0
+6 47 1.0
+6 44 1.0
+6 10 1.0
+7 15 1.0
+7 51 1.0
+8 84 1.0
+8 57 1.0
+9 56 1.0
+9 11 1.0
+10 12 1.0
+11 28 1.0
+12 50 1.0
+13 82 1.0
+13 92 1.0
+14 34 1.0
+15 30 1.0
+15 79 1.0
+15 90 1.0
+16 59 1.0
+16 61 1.0
+17 60 1.0
+17 54 1.0
+17 90 1.0
+18 28 1.0
+18 45 1.0
+18 53 1.0
+18 89 1.0
+18 38 1.0
+18 43 1.0
+19 33 1.0
+19 73 1.0
+20 81 1.0
+21 76 1.0
+21 70 1.0
+22 42 1.0
+22 84 1.0
+22 65 1.0
+23 26 1.0
+23 86 1.0
+24 85 1.0
+25 64 1.0
+25 36 1.0
+26 71 1.0
+27 55 1.0
+27 49 1.0
+28 52 1.0
+29 51 1.0
+30 65 1.0
+31 72 1.0
+31 46 1.0
+32 46 1.0
+32 71 1.0
+33 87 1.0
+36 75 1.0
+37 63 1.0
+37 54 1.0
+38 80 1.0
+39 91 1.0
+39 72 1.0
+40 48 1.0
+40 88 1.0
+41 77 1.0
+41 78 1.0
+42 84 1.0
+43 79 1.0
+44 58 1.0
+45 83 1.0
+47 57 1.0
+49 87 1.0
+52 74 1.0
+53 92 1.0
+53 64 1.0
+55 80 1.0
+56 64 1.0
+59 91 1.0
+60 85 1.0
+62 75 1.0
+62 81 1.0
+66 88 1.0
+67 68 1.0
+68 82 1.0
+69 76 1.0
+70 74 1.0
+79 89 1.0
+83 86 1.0

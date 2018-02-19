@@ -1,0 +1,681 @@
+*vertices 317
+1 "Camp de l'Arpa" 0.0 0.0 ellipse
+2 Tetuan 0.0 0.0 ellipse
+3 "Bon Pastor" 0.0 0.0 ellipse
+4 "Sant Sadurni d'Anoia" 0.0 0.0 ellipse
+5 Lesseps 0.0 0.0 ellipse
+6 "Sant Andreu-Sant Andreu Comtal" 0.0 0.0 ellipse
+7 "Les Planes" 0.0 0.0 ellipse
+8 "Artigues Sant Adria" 0.0 0.0 ellipse
+9 Sarria 0.0 0.0 ellipse
+10 "Universitat Autonoma" 0.0 0.0 ellipse
+11 "Sant Pau Dos de Maig" 0.0 0.0 ellipse
+12 "Arenys de Mar" 0.0 0.0 ellipse
+13 "L'Arboc" 0.0 0.0 ellipse
+14 "Parc del Besos" 0.0 0.0 ellipse
+15 "La Garriga" 0.0 0.0 ellipse
+16 "La Llagosta" 0.0 0.0 ellipse
+17 "El Masnou" 0.0 0.0 ellipse
+18 "Pep Ventura" 0.0 0.0 ellipse
+19 "Sagrada Familia" 0.0 0.0 ellipse
+20 Hostafrancs 0.0 0.0 ellipse
+21 Forum 0.0 0.0 ellipse
+22 "Balenya Tona-Seva" 0.0 0.0 ellipse
+23 "Can Boixeres" 0.0 0.0 ellipse
+24 Calella 0.0 0.0 ellipse
+25 "La Fontsanta" 0.0 0.0 ellipse
+26 "Balenya Els Hostalets" 0.0 0.0 ellipse
+27 "Francesc Macia" 0.0 0.0 ellipse
+28 "Sant Andreu Arenal-Fabra I Puig" 0.0 0.0 ellipse
+29 "Mercat Nou" 0.0 0.0 ellipse
+30 Penitents 0.0 0.0 ellipse
+31 "Can Parellada" 0.0 0.0 ellipse
+32 Valldaura 0.0 0.0 ellipse
+33 "Avinguda de Xile" 0.0 0.0 ellipse
+34 "Vilassar de Mar" 0.0 0.0 ellipse
+35 Figaro 0.0 0.0 ellipse
+36 "Montcada I Reixac-Manresa" 0.0 0.0 ellipse
+37 "Parets del Valles" 0.0 0.0 ellipse
+38 "Santa Susanna" 0.0 0.0 ellipse
+39 "Can Rigal" 0.0 0.0 ellipse
+40 Castellbisbal 0.0 0.0 ellipse
+41 "Granollers Centre" 0.0 0.0 ellipse
+42 Tordera 0.0 0.0 ellipse
+43 "Passeig de Gracia" 0.0 0.0 ellipse
+44 "Le Pau" 0.0 0.0 ellipse
+45 "Badalona Pompeu Fabra" 0.0 0.0 ellipse
+46 Castelldefels 0.0 0.0 ellipse
+47 Paral-lel 0.0 0.0 ellipse
+48 Piera 0.0 0.0 ellipse
+49 Badalona 0.0 0.0 ellipse
+50 Encants 0.0 0.0 ellipse
+51 "Macanet Massanes" 0.0 0.0 ellipse
+52 Drassanes 0.0 0.0 ellipse
+53 Viladecavalls 0.0 0.0 ellipse
+54 "Bac de Roda" 0.0 0.0 ellipse
+55 "Magoria La Campana" 0.0 0.0 ellipse
+56 Terrassa 0.0 0.0 ellipse
+57 Numancia 0.0 0.0 ellipse
+58 "Sant Gervasi-Pl. Molina" 0.0 0.0 ellipse
+59 Montgat 0.0 0.0 ellipse
+60 "Can Serra" 0.0 0.0 ellipse
+61 "Manresa Alta" 0.0 0.0 ellipse
+62 "Can Clota" 0.0 0.0 ellipse
+63 "Hospital General" 0.0 0.0 ellipse
+64 "Monistrol de Monserrat" 0.0 0.0 ellipse
+65 "Platja de Castelldefels" 0.0 0.0 ellipse
+66 "Via Julia" 0.0 0.0 ellipse
+67 "Montcada I Reixac" 0.0 0.0 ellipse
+68 "Sant Vicenc dels Horts" 0.0 0.0 ellipse
+69 Mundet 0.0 0.0 ellipse
+70 Bellaterra 0.0 0.0 ellipse
+71 "L'Hospitalet de Llobregat" 0.0 0.0 ellipse
+72 "Selva de Mar" 0.0 0.0 ellipse
+73 "Arc de Triomf" 0.0 0.0 ellipse
+74 Provenca-Diagonal 0.0 0.0 ellipse
+75 "Monistrol Vila" 0.0 0.0 ellipse
+76 "Quatre Camins" 0.0 0.0 ellipse
+77 "Vallbona d'Anoia" 0.0 0.0 ellipse
+78 Collblanc 0.0 0.0 ellipse
+79 "Can Llima" 0.0 0.0 ellipse
+80 "Guinardo Hospital de Sant Pau" 0.0 0.0 ellipse
+81 "Trinitat Nova" 0.0 0.0 ellipse
+82 "Maria Cristina" 0.0 0.0 ellipse
+83 Gualba 0.0 0.0 ellipse
+84 Palleja 0.0 0.0 ellipse
+85 Granollers-Canovelles 0.0 0.0 ellipse
+86 "Bon Viatge" 0.0 0.0 ellipse
+87 "Ciutat Meridiana" 0.0 0.0 ellipse
+88 "Sant Antoni" 0.0 0.0 ellipse
+89 Fontana 0.0 0.0 ellipse
+90 "Pl. del Funicular" 0.0 0.0 ellipse
+91 "Segur de Calafell" 0.0 0.0 ellipse
+92 "Torre del Baro-Vallbona-Torre del Baro" 0.0 0.0 ellipse
+93 "Vilafranca del Penedes" 0.0 0.0 ellipse
+94 Glories 0.0 0.0 ellipse
+95 "Sant Feliu Consell Comarcal" 0.0 0.0 ellipse
+96 "La Granada" 0.0 0.0 ellipse
+97 "Rubi (1)" 0.0 0.0 ellipse
+98 Besos 0.0 0.0 ellipse
+99 "Montcada Ripollet" 0.0 0.0 ellipse
+100 "Sant Feliu de Llobregat" 0.0 0.0 ellipse
+101 Gava 0.0 0.0 ellipse
+102 "La Floresta" 0.0 0.0 ellipse
+103 Valldoreix 0.0 0.0 ellipse
+104 Tibidabo 0.0 0.0 ellipse
+105 "La Catalana" 0.0 0.0 ellipse
+106 "Rubi (2)" 0.0 0.0 ellipse
+107 Montmelo 0.0 0.0 ellipse
+108 "Placa del Centre" 0.0 0.0 ellipse
+109 "Sant Adria de Besos-Estacio de Sant Adria" 0.0 0.0 ellipse
+110 "Central Termica del Besos" 0.0 0.0 ellipse
+111 "Hospital Clinic" 0.0 0.0 ellipse
+112 "Aeri de Montserrat" 0.0 0.0 ellipse
+113 "Rambla Just Oliveras-L'Hospitalet de Llobregat" 0.0 0.0 ellipse
+114 "Pont d'Esplugues" 0.0 0.0 ellipse
+115 Mira-Sol 0.0 0.0 ellipse
+116 Walden 0.0 0.0 ellipse
+117 "Can Jaumandreu" 0.0 0.0 ellipse
+118 "Montgat Nord" 0.0 0.0 ellipse
+119 "Montcada Bifurcacio" 0.0 0.0 ellipse
+120 "Zona Universitaria" 0.0 0.0 ellipse
+121 Badal 0.0 0.0 ellipse
+122 "Sant Celoni" 0.0 0.0 ellipse
+123 Verdaguer 0.0 0.0 ellipse
+124 "Sant Esteve Sesrovires" 0.0 0.0 ellipse
+125 Torreblanca 0.0 0.0 ellipse
+126 "La Beguda" 0.0 0.0 ellipse
+127 "Sant Vicenc de Calders" 0.0 0.0 ellipse
+128 "Sant Marti de Centelles" 0.0 0.0 ellipse
+129 "Can Cuias" 0.0 0.0 ellipse
+130 "Fontsanta Fatjo" 0.0 0.0 ellipse
+131 "Can Vidalet" 0.0 0.0 ellipse
+132 "Alfons el Magnanim" 0.0 0.0 ellipse
+133 "Ignasi Iglesias" 0.0 0.0 ellipse
+134 Florida 0.0 0.0 ellipse
+135 "Sabadell Sud" 0.0 0.0 ellipse
+136 Fluvia 0.0 0.0 ellipse
+137 Monumental 0.0 0.0 ellipse
+138 "Sant Vicenc de Castellet" 0.0 0.0 ellipse
+139 "Can Zam" 0.0 0.0 ellipse
+140 "Pius XII" 0.0 0.0 ellipse
+141 Esparreguera 0.0 0.0 ellipse
+142 "La Mina" 0.0 0.0 ellipse
+143 Masquefa 0.0 0.0 ellipse
+144 Aeroport 0.0 0.0 ellipse
+145 Llacuna 0.0 0.0 ellipse
+146 "Torras I Bages" 0.0 0.0 ellipse
+147 Espanya 0.0 0.0 ellipse
+148 Vic 0.0 0.0 ellipse
+149 "Sant Marti" 0.0 0.0 ellipse
+150 Mataro 0.0 0.0 ellipse
+151 "Barbera del Valles" 0.0 0.0 ellipse
+152 "Encants de Sant Adria" 0.0 0.0 ellipse
+153 "Hospital Sant Joan Despi-TV3" 0.0 0.0 ellipse
+154 Llefia 0.0 0.0 ellipse
+155 "Vilanova del Cami" 0.0 0.0 ellipse
+156 "Santa Perpetua de Mogoda" 0.0 0.0 ellipse
+157 Viladecans 0.0 0.0 ellipse
+158 "Can Ros" 0.0 0.0 ellipse
+159 "Castellbell I el Vilar Monistrol de Montserrat" 0.0 0.0 ellipse
+160 Torrassa 0.0 0.0 ellipse
+161 Bellvitge 0.0 0.0 ellipse
+162 Universitat 0.0 0.0 ellipse
+163 Vacarisses 0.0 0.0 ellipse
+164 Liceu 0.0 0.0 ellipse
+165 "Placa de Sants" 0.0 0.0 ellipse
+166 "Hospital de Bellvitge" 0.0 0.0 ellipse
+167 "Sant Ildefons" 0.0 0.0 ellipse
+168 "Molins de Rei" 0.0 0.0 ellipse
+169 "Cerdanyola del Valles" 0.0 0.0 ellipse
+170 Urgelll 0.0 0.0 ellipse
+171 Maragall 0.0 0.0 ellipse
+172 "Onze de Septembre" 0.0 0.0 ellipse
+173 Girona 0.0 0.0 ellipse
+174 "Mollet-Sant Fost" 0.0 0.0 ellipse
+175 "La Pobla de Claramunt" 0.0 0.0 ellipse
+176 "Sant Roc" 0.0 0.0 ellipse
+177 "Malgrat de Mar" 0.0 0.0 ellipse
+178 "Sant Andreu de Llavaneres" 0.0 0.0 ellipse
+179 "Sant Boi" 0.0 0.0 ellipse
+180 Sitges 0.0 0.0 ellipse
+181 "Sant Josep" 0.0 0.0 ellipse
+182 "Centre Miquel Mari I Pol" 0.0 0.0 ellipse
+183 "Les Fonts" 0.0 0.0 ellipse
+184 Europa-Fira 0.0 0.0 ellipse
+185 Alfons 0.0 0.0 ellipse
+186 "Gelida-Gelida Inferior" 0.0 0.0 ellipse
+187 "Sant-Joan Baptista" 0.0 0.0 ellipse
+188 "Premia de Mar" 0.0 0.0 ellipse
+189 Sants-Estacio-Sants 0.0 0.0 ellipse
+190 "Llinars del Valles" 0.0 0.0 ellipse
+191 Urquinaona 0.0 0.0 ellipse
+192 "Jaume I" 0.0 0.0 ellipse
+193 "Baixador de Vallvidrera" 0.0 0.0 ellipse
+194 "Sabadell Centre" 0.0 0.0 ellipse
+195 "L'Illa" 0.0 0.0 ellipse
+196 "Ernest Lluch" 0.0 0.0 ellipse
+197 "Sant Vicenc-Castellgali" 0.0 0.0 ellipse
+198 "Clot-El Clot-Arago" 0.0 0.0 ellipse
+199 Cunit 0.0 0.0 ellipse
+200 "Barceloneta-Estacio de Franca" 0.0 0.0 ellipse
+201 "Ciutadella Vila Olimpica" 0.0 0.0 ellipse
+202 "Santa Coloma de Cervello" 0.0 0.0 ellipse
+203 Garraf 0.0 0.0 ellipse
+204 "Manresa Baixador" 0.0 0.0 ellipse
+205 "El Pedro" 0.0 0.0 ellipse
+206 "Sant Miquel de Gonteres Viladecavalls" 0.0 0.0 ellipse
+207 Vallcarca 0.0 0.0 ellipse
+208 Cardedeu 0.0 0.0 ellipse
+209 "Poble Sec" 0.0 0.0 ellipse
+210 "Castelbell I el Vilar" 0.0 0.0 ellipse
+211 Centelles 0.0 0.0 ellipse
+212 "Colonia Guell" 0.0 0.0 ellipse
+213 "Montcada I Reixac-Santa Maria" 0.0 0.0 ellipse
+214 "Palau Reial" 0.0 0.0 ellipse
+215 Wellington 0.0 0.0 ellipse
+216 "Sant Pol de Mar" 0.0 0.0 ellipse
+217 Capellades 0.0 0.0 ellipse
+218 Marina 0.0 0.0 ellipse
+219 "Les Aigues" 0.0 0.0 ellipse
+220 "Sta Eulalia" 0.0 0.0 ellipse
+221 "Olesa de Montserrat" 0.0 0.0 ellipse
+222 Calafell 0.0 0.0 ellipse
+223 "Sant Andreu de la Barca" 0.0 0.0 ellipse
+224 "Ca l'Aranyo" 0.0 0.0 ellipse
+225 "Terrassa Rambla" 0.0 0.0 ellipse
+226 Almeda 0.0 0.0 ellipse
+227 Fondo 0.0 0.0 ellipse
+228 Poblenou 0.0 0.0 ellipse
+229 "Vilanova I la Geitru" 0.0 0.0 ellipse
+230 Vacarisses-Torreblanca 0.0 0.0 ellipse
+231 Catalunya 0.0 0.0 ellipse
+232 Cubelles 0.0 0.0 ellipse
+233 "Pubilla Cases" 0.0 0.0 ellipse
+234 "El Putxet" 0.0 0.0 ellipse
+235 "Martorell-Martorell Central" 0.0 0.0 ellipse
+236 "Trinitat Vella" 0.0 0.0 ellipse
+237 Canyelles 0.0 0.0 ellipse
+238 "Baro de Viver" 0.0 0.0 ellipse
+239 "Vall d'Hebron" 0.0 0.0 ellipse
+240 "Sabadell Estacio" 0.0 0.0 ellipse
+241 "Llevant Les Planes" 0.0 0.0 ellipse
+242 "Mollet Santa Rosa" 0.0 0.0 ellipse
+243 Blanes 0.0 0.0 ellipse
+244 "La Salut" 0.0 0.0 ellipse
+245 "Manresa Viladordis" 0.0 0.0 ellipse
+246 "Caldes d'Estrac" 0.0 0.0 ellipse
+247 "Els Monjos" 0.0 0.0 ellipse
+248 Bogatell 0.0 0.0 ellipse
+249 "La Sagrera Meridiana-La Sagrera" 0.0 0.0 ellipse
+250 "Sabadell Rambla" 0.0 0.0 ellipse
+251 Hostalric 0.0 0.0 ellipse
+252 "El Palau" 0.0 0.0 ellipse
+253 "El Maresme-Forum-El Maresme" 0.0 0.0 ellipse
+254 Verneda 0.0 0.0 ellipse
+255 "Les Corts" 0.0 0.0 ellipse
+256 "Can Peixauet" 0.0 0.0 ellipse
+257 "Peu del Funicular" 0.0 0.0 ellipse
+258 Llucmajor 0.0 0.0 ellipse
+259 "Sant Joan" 0.0 0.0 ellipse
+260 Palautordera 0.0 0.0 ellipse
+261 "Santa Coloma" 0.0 0.0 ellipse
+262 "Pere IV" 0.0 0.0 ellipse
+263 Igualada 0.0 0.0 ellipse
+264 Ocata 0.0 0.0 ellipse
+265 Manresa 0.0 0.0 ellipse
+266 Joanic 0.0 0.0 ellipse
+267 Montbau 0.0 0.0 ellipse
+268 "El Vendrell" 0.0 0.0 ellipse
+269 "Canet de Mar" 0.0 0.0 ellipse
+270 Volpelleres 0.0 0.0 ellipse
+271 "Cornella Centre-Cornella" 0.0 0.0 ellipse
+272 "Ildefons Cerda" 0.0 0.0 ellipse
+273 "Santa Cova" 0.0 0.0 ellipse
+274 "Moli Nou Ciutat Cooperativa" 0.0 0.0 ellipse
+275 Gornal-Bellvitge 0.0 0.0 ellipse
+276 Gorg 0.0 0.0 ellipse
+277 Espronceda 0.0 0.0 ellipse
+278 "Sant Marti de Provencals" 0.0 0.0 ellipse
+279 Entenca 0.0 0.0 ellipse
+280 "Les Franqueses Granollers Nord" 0.0 0.0 ellipse
+281 "Terrassa Est" 0.0 0.0 ellipse
+282 Tarragona 0.0 0.0 ellipse
+283 "L'Hospitalet Av. Carrilet-Av. Carrilet" 0.0 0.0 ellipse
+284 "Cerdanyola Universitat" 0.0 0.0 ellipse
+285 "Riells I Viabrea Breda" 0.0 0.0 ellipse
+286 Montserrat 0.0 0.0 ellipse
+287 "Sant Cugat-Sant Cugat del Valles" 0.0 0.0 ellipse
+288 "Cabrera de Mar-Vilassar de Mar" 0.0 0.0 ellipse
+289 "La Pau" 0.0 0.0 ellipse
+290 "Sabadell Nord" 0.0 0.0 ellipse
+291 "Lavern Subirats" 0.0 0.0 ellipse
+292 "Besos Mar" 0.0 0.0 ellipse
+293 "La Farinera" 0.0 0.0 ellipse
+294 "Sant Joan Despi" 0.0 0.0 ellipse
+295 Navas 0.0 0.0 ellipse
+296 Gavarra 0.0 0.0 ellipse
+297 "Martorell Vila Castellbisbal" 0.0 0.0 ellipse
+298 Rocafort 0.0 0.0 ellipse
+299 "Casa de l'Aigua" 0.0 0.0 ellipse
+300 "El Prat de Llobregat" 0.0 0.0 ellipse
+301 "Esglesia Major" 0.0 0.0 ellipse
+302 "Can'Oliverres" 0.0 0.0 ellipse
+303 "Av. Tibidabo" 0.0 0.0 ellipse
+304 "Rambla de Sant Just" 0.0 0.0 ellipse
+305 Roquetes 0.0 0.0 ellipse
+306 "Martorell Enilac" 0.0 0.0 ellipse
+307 "Cornella Riera" 0.0 0.0 ellipse
+308 "Sant Quirze" 0.0 0.0 ellipse
+309 "Auditori Teatre Nacional" 0.0 0.0 ellipse
+310 Montesa 0.0 0.0 ellipse
+311 Singuerlin 0.0 0.0 ellipse
+312 Abrera 0.0 0.0 ellipse
+313 Muntaner 0.0 0.0 ellipse
+314 "Pineda de Mar" 0.0 0.0 ellipse
+315 Gracia 0.0 0.0 ellipse
+316 "Les Franqueses el Valles" 0.0 0.0 ellipse
+317 "La Sardana" 0.0 0.0 ellipse
+*edges
+1 11 1.0
+1 249 1.0
+2 137 1.0
+2 43 1.0
+3 256 1.0
+3 154 1.0
+3 172 1.0
+4 186 1.0
+4 291 1.0
+5 89 1.0
+5 207 1.0
+6 67 1.0
+6 28 1.0
+6 146 1.0
+6 198 1.0
+7 102 1.0
+7 193 1.0
+8 176 1.0
+8 254 1.0
+9 313 1.0
+9 257 1.0
+9 102 1.0
+10 70 1.0
+10 308 1.0
+11 19 1.0
+12 269 1.0
+12 246 1.0
+13 247 1.0
+13 268 1.0
+14 132 1.0
+14 105 1.0
+15 35 1.0
+15 316 1.0
+16 174 1.0
+16 67 1.0
+17 264 1.0
+17 118 1.0
+18 45 1.0
+18 276 1.0
+19 137 1.0
+19 50 1.0
+19 123 1.0
+20 147 1.0
+20 165 1.0
+21 79 1.0
+21 253 1.0
+22 148 1.0
+22 26 1.0
+23 131 1.0
+23 167 1.0
+24 314 1.0
+24 216 1.0
+25 86 1.0
+25 182 1.0
+26 211 1.0
+27 195 1.0
+28 249 1.0
+28 92 1.0
+29 165 1.0
+29 220 1.0
+30 207 1.0
+30 239 1.0
+31 126 1.0
+31 143 1.0
+32 237 1.0
+32 69 1.0
+33 196 1.0
+33 120 1.0
+34 288 1.0
+34 188 1.0
+35 128 1.0
+36 213 1.0
+36 119 1.0
+37 242 1.0
+37 85 1.0
+38 314 1.0
+38 177 1.0
+39 196 1.0
+39 302 1.0
+40 168 1.0
+40 235 1.0
+40 106 1.0
+41 107 1.0
+41 280 1.0
+42 51 1.0
+42 243 1.0
+43 191 1.0
+43 173 1.0
+43 231 1.0
+43 198 1.0
+43 74 1.0
+43 162 1.0
+43 200 1.0
+43 189 1.0
+44 149 1.0
+44 254 1.0
+46 65 1.0
+46 101 1.0
+47 88 1.0
+47 52 1.0
+47 209 1.0
+48 77 1.0
+48 143 1.0
+49 59 1.0
+49 109 1.0
+50 198 1.0
+51 251 1.0
+52 164 1.0
+53 206 1.0
+53 230 1.0
+54 149 1.0
+54 198 1.0
+55 147 1.0
+55 272 1.0
+56 206 1.0
+56 281 1.0
+57 82 1.0
+57 195 1.0
+58 313 1.0
+58 234 1.0
+58 315 1.0
+59 118 1.0
+60 113 1.0
+60 134 1.0
+61 245 1.0
+61 204 1.0
+62 114 1.0
+62 302 1.0
+63 115 1.0
+63 97 1.0
+64 112 1.0
+64 75 1.0
+64 210 1.0
+65 203 1.0
+66 81 1.0
+66 258 1.0
+68 202 1.0
+68 274 1.0
+68 158 1.0
+69 267 1.0
+70 294 1.0
+71 271 1.0
+71 189 1.0
+72 253 1.0
+72 228 1.0
+72 136 1.0
+73 218 1.0
+73 191 1.0
+73 249 1.0
+73 231 1.0
+73 198 1.0
+74 89 1.0
+74 231 1.0
+74 111 1.0
+74 315 1.0
+74 123 1.0
+75 286 1.0
+76 158 1.0
+76 84 1.0
+77 217 1.0
+78 233 1.0
+78 121 1.0
+79 110 1.0
+80 185 1.0
+80 171 1.0
+81 305 1.0
+81 299 1.0
+82 214 1.0
+82 255 1.0
+82 140 1.0
+83 285 1.0
+83 122 1.0
+84 223 1.0
+85 316 1.0
+86 130 1.0
+87 129 1.0
+87 92 1.0
+88 162 1.0
+90 303 1.0
+90 104 1.0
+91 199 1.0
+91 222 1.0
+92 299 1.0
+92 119 1.0
+93 247 1.0
+93 96 1.0
+94 218 1.0
+94 293 1.0
+94 309 1.0
+94 224 1.0
+94 198 1.0
+95 125 1.0
+96 291 1.0
+97 183 1.0
+98 292 1.0
+98 132 1.0
+98 278 1.0
+98 289 1.0
+99 156 1.0
+99 119 1.0
+100 168 1.0
+100 294 1.0
+101 157 1.0
+102 103 1.0
+103 287 1.0
+105 142 1.0
+105 187 1.0
+106 270 1.0
+107 174 1.0
+108 255 1.0
+108 189 1.0
+109 110 1.0
+109 198 1.0
+110 142 1.0
+111 279 1.0
+112 286 1.0
+112 221 1.0
+113 283 1.0
+114 317 1.0
+115 287 1.0
+116 125 1.0
+116 304 1.0
+117 293 1.0
+117 277 1.0
+120 214 1.0
+121 165 1.0
+122 260 1.0
+123 173 1.0
+123 266 1.0
+124 306 1.0
+124 126 1.0
+127 268 1.0
+127 222 1.0
+128 211 1.0
+130 219 1.0
+131 233 1.0
+133 205 1.0
+133 271 1.0
+134 160 1.0
+135 194 1.0
+135 151 1.0
+136 262 1.0
+138 265 1.0
+138 159 1.0
+139 311 1.0
+140 214 1.0
+141 221 1.0
+144 300 1.0
+145 228 1.0
+145 248 1.0
+146 236 1.0
+147 209 1.0
+147 298 1.0
+147 282 1.0
+150 288 1.0
+150 178 1.0
+151 169 1.0
+152 176 1.0
+152 187 1.0
+153 304 1.0
+153 310 1.0
+154 244 1.0
+155 263 1.0
+155 175 1.0
+156 242 1.0
+157 300 1.0
+159 163 1.0
+160 220 1.0
+161 166 1.0
+161 283 1.0
+162 170 1.0
+162 231 1.0
+163 230 1.0
+164 231 1.0
+165 189 1.0
+167 296 1.0
+169 213 1.0
+169 284 1.0
+170 298 1.0
+171 258 1.0
+172 249 1.0
+174 284 1.0
+175 217 1.0
+176 276 1.0
+177 243 1.0
+178 246 1.0
+179 274 1.0
+179 307 1.0
+180 229 1.0
+180 203 1.0
+181 275 1.0
+181 283 1.0
+182 241 1.0
+183 225 1.0
+184 275 1.0
+184 272 1.0
+185 266 1.0
+186 235 1.0
+188 264 1.0
+189 282 1.0
+189 231 1.0
+189 279 1.0
+189 275 1.0
+190 260 1.0
+190 208 1.0
+191 192 1.0
+191 231 1.0
+192 200 1.0
+193 257 1.0
+194 290 1.0
+197 245 1.0
+197 210 1.0
+198 295 1.0
+199 232 1.0
+200 201 1.0
+201 248 1.0
+201 215 1.0
+202 212 1.0
+205 310 1.0
+208 280 1.0
+212 274 1.0
+215 218 1.0
+216 269 1.0
+218 309 1.0
+219 271 1.0
+221 312 1.0
+223 252 1.0
+224 262 1.0
+226 307 1.0
+226 283 1.0
+227 256 1.0
+227 301 1.0
+227 261 1.0
+229 232 1.0
+234 303 1.0
+235 306 1.0
+235 252 1.0
+235 297 1.0
+236 238 1.0
+237 305 1.0
+238 261 1.0
+239 267 1.0
+240 308 1.0
+240 250 1.0
+244 276 1.0
+249 295 1.0
+251 285 1.0
+252 297 1.0
+253 292 1.0
+259 286 1.0
+270 284 1.0
+270 294 1.0
+270 287 1.0
+271 296 1.0
+271 294 1.0
+273 286 1.0
+275 300 1.0
+277 278 1.0
+281 290 1.0
+301 311 1.0
+306 312 1.0
+310 317 1.0

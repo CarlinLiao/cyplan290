@@ -1,0 +1,249 @@
+*vertices 122
+1 "Port Washington" 0.0 0.0 ellipse
+2 "Stewart Manor" 0.0 0.0 ellipse
+3 "Bay Shore" 0.0 0.0 ellipse
+4 Northport 0.0 0.0 ellipse
+5 "Hunterspoint Avenue" 0.0 0.0 ellipse
+6 Malverne 0.0 0.0 ellipse
+7 Inwood 0.0 0.0 ellipse
+8 Oakdale 0.0 0.0 ellipse
+9 "Atlantic Terminal" 0.0 0.0 ellipse
+10 Auburndale 0.0 0.0 ellipse
+11 Sayville 0.0 0.0 ellipse
+12 Montauk 0.0 0.0 ellipse
+13 Yaphank 0.0 0.0 ellipse
+14 "East Rockaway" 0.0 0.0 ellipse
+15 Woodmere 0.0 0.0 ellipse
+16 "Hempstead Gardens" 0.0 0.0 ellipse
+17 Lindenhurst 0.0 0.0 ellipse
+18 Farmingdale 0.0 0.0 ellipse
+19 Lynbrook 0.0 0.0 ellipse
+20 "Queens Village" 0.0 0.0 ellipse
+21 Medford 0.0 0.0 ellipse
+22 Jamaica 0.0 0.0 ellipse
+23 Greenlawn 0.0 0.0 ellipse
+24 Bridgehampton 0.0 0.0 ellipse
+25 Lakeview 0.0 0.0 ellipse
+26 Plandome 0.0 0.0 ellipse
+27 "Kings Park" 0.0 0.0 ellipse
+28 Roslyn 0.0 0.0 ellipse
+29 Broadway 0.0 0.0 ellipse
+30 Westwood 0.0 0.0 ellipse
+31 Bellmore 0.0 0.0 ellipse
+32 "Glen Street" 0.0 0.0 ellipse
+33 Albertson 0.0 0.0 ellipse
+34 Bayside 0.0 0.0 ellipse
+35 "Hampton Bays" 0.0 0.0 ellipse
+36 Wyandanch 0.0 0.0 ellipse
+37 "East New York" 0.0 0.0 ellipse
+38 "East Williston" 0.0 0.0 ellipse
+39 Babylon 0.0 0.0 ellipse
+40 Greenvale 0.0 0.0 ellipse
+41 Woodside 0.0 0.0 ellipse
+42 Brentwood 0.0 0.0 ellipse
+43 Hempstead 0.0 0.0 ellipse
+44 "Forest Hills" 0.0 0.0 ellipse
+45 "Country Life Press" 0.0 0.0 ellipse
+46 "Carle Place" 0.0 0.0 ellipse
+47 "Flushing Main Street" 0.0 0.0 ellipse
+48 "Saint Albans" 0.0 0.0 ellipse
+49 "Long Beach" 0.0 0.0 ellipse
+50 Copiague 0.0 0.0 ellipse
+51 Southampton 0.0 0.0 ellipse
+52 "Great Neck" 0.0 0.0 ellipse
+53 Riverhead 0.0 0.0 ellipse
+54 Massapequa 0.0 0.0 ellipse
+55 "Deer Park" 0.0 0.0 ellipse
+56 Seaford 0.0 0.0 ellipse
+57 Gibson 0.0 0.0 ellipse
+58 Amagansett 0.0 0.0 ellipse
+59 Bellport 0.0 0.0 ellipse
+60 Wantagh 0.0 0.0 ellipse
+61 "Great River" 0.0 0.0 ellipse
+62 Southold 0.0 0.0 ellipse
+63 Huntington 0.0 0.0 ellipse
+64 Baldwin 0.0 0.0 ellipse
+65 Douglaston 0.0 0.0 ellipse
+66 Mattituck 0.0 0.0 ellipse
+67 Syosset 0.0 0.0 ellipse
+68 Islip 0.0 0.0 ellipse
+69 "Glen Head" 0.0 0.0 ellipse
+70 "Massapequa Park" 0.0 0.0 ellipse
+71 Mineola 0.0 0.0 ellipse
+72 Patchogue 0.0 0.0 ellipse
+73 "Island Park" 0.0 0.0 ellipse
+74 "Penn Station" 0.0 0.0 ellipse
+75 "Mastic - Shirley" 0.0 0.0 ellipse
+76 Cedarhurst 0.0 0.0 ellipse
+77 Lawrence 0.0 0.0 ellipse
+78 "Locust Valley" 0.0 0.0 ellipse
+79 Hewlett 0.0 0.0 ellipse
+80 "Nostrand Avenue" 0.0 0.0 ellipse
+81 Laurelton 0.0 0.0 ellipse
+82 Greenport 0.0 0.0 ellipse
+83 Oceanside 0.0 0.0 ellipse
+84 "West Hempstead" 0.0 0.0 ellipse
+85 "Nassau Boulevard" 0.0 0.0 ellipse
+86 "Valley Stream" 0.0 0.0 ellipse
+87 "Central Islip" 0.0 0.0 ellipse
+88 "Murray Hill" 0.0 0.0 ellipse
+89 "Locust Manor" 0.0 0.0 ellipse
+90 Bethpage 0.0 0.0 ellipse
+91 "Oyster Bay" 0.0 0.0 ellipse
+92 "Merillon Avenue" 0.0 0.0 ellipse
+93 Smithtown 0.0 0.0 ellipse
+94 "Cold Spring Harbor" 0.0 0.0 ellipse
+95 "Sea Cliff" 0.0 0.0 ellipse
+96 Ronkonkoma 0.0 0.0 ellipse
+97 Speonk 0.0 0.0 ellipse
+98 "Stony Brook" 0.0 0.0 ellipse
+99 "Floral Park" 0.0 0.0 ellipse
+100 Bellerose 0.0 0.0 ellipse
+101 Merrick 0.0 0.0 ellipse
+102 Westhampton 0.0 0.0 ellipse
+103 "Garden City" 0.0 0.0 ellipse
+104 Amityville 0.0 0.0 ellipse
+105 "Far Rockaway" 0.0 0.0 ellipse
+106 "Long Island City" 0.0 0.0 ellipse
+107 "Port Jefferson" 0.0 0.0 ellipse
+108 Hicksville 0.0 0.0 ellipse
+109 Freeport 0.0 0.0 ellipse
+110 "Rockville Centre" 0.0 0.0 ellipse
+111 "Glen Cove" 0.0 0.0 ellipse
+112 Pinelawn 0.0 0.0 ellipse
+113 Hollis 0.0 0.0 ellipse
+114 "Little Neck" 0.0 0.0 ellipse
+115 "East Hampton" 0.0 0.0 ellipse
+116 Westbury 0.0 0.0 ellipse
+117 Rosedale 0.0 0.0 ellipse
+118 "Saint James" 0.0 0.0 ellipse
+119 "Centre Avenue" 0.0 0.0 ellipse
+120 Manhasset 0.0 0.0 ellipse
+121 "Kew Gardens" 0.0 0.0 ellipse
+122 "New Hyde Park" 0.0 0.0 ellipse
+*edges
+1 26 1.0
+2 99 1.0
+2 85 1.0
+3 68 1.0
+3 39 1.0
+4 27 1.0
+4 23 1.0
+5 22 1.0
+5 106 1.0
+6 30 1.0
+6 25 1.0
+7 105 1.0
+7 77 1.0
+8 61 1.0
+8 11 1.0
+9 80 1.0
+10 29 1.0
+10 34 1.0
+11 72 1.0
+12 58 1.0
+13 53 1.0
+13 21 1.0
+14 119 1.0
+14 83 1.0
+15 76 1.0
+15 79 1.0
+16 25 1.0
+16 84 1.0
+17 50 1.0
+17 39 1.0
+18 112 1.0
+18 90 1.0
+19 119 1.0
+19 86 1.0
+19 48 1.0
+19 110 1.0
+20 100 1.0
+20 113 1.0
+20 99 1.0
+21 96 1.0
+22 89 1.0
+22 37 1.0
+22 113 1.0
+22 48 1.0
+22 121 1.0
+23 63 1.0
+24 51 1.0
+24 115 1.0
+26 120 1.0
+27 93 1.0
+28 40 1.0
+28 33 1.0
+29 88 1.0
+30 86 1.0
+30 48 1.0
+31 60 1.0
+31 101 1.0
+32 95 1.0
+32 111 1.0
+33 38 1.0
+34 65 1.0
+35 51 1.0
+35 102 1.0
+36 112 1.0
+36 55 1.0
+37 80 1.0
+38 71 1.0
+39 90 1.0
+40 69 1.0
+41 74 1.0
+41 47 1.0
+41 44 1.0
+42 55 1.0
+42 87 1.0
+43 45 1.0
+44 121 1.0
+45 103 1.0
+46 116 1.0
+46 71 1.0
+47 88 1.0
+49 73 1.0
+50 104 1.0
+52 120 1.0
+52 114 1.0
+53 66 1.0
+54 56 1.0
+54 70 1.0
+56 60 1.0
+57 86 1.0
+57 79 1.0
+58 115 1.0
+59 75 1.0
+59 72 1.0
+61 68 1.0
+62 66 1.0
+62 82 1.0
+63 94 1.0
+64 109 1.0
+64 110 1.0
+65 114 1.0
+67 108 1.0
+67 94 1.0
+69 95 1.0
+70 104 1.0
+71 92 1.0
+73 83 1.0
+75 97 1.0
+76 77 1.0
+78 111 1.0
+78 91 1.0
+81 117 1.0
+81 89 1.0
+85 103 1.0
+86 117 1.0
+87 96 1.0
+90 108 1.0
+92 122 1.0
+93 118 1.0
+97 102 1.0
+98 107 1.0
+98 118 1.0
+99 100 1.0
+99 122 1.0
+101 109 1.0
+108 116 1.0

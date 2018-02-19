@@ -1,0 +1,302 @@
+*vertices 149
+1 "Muenchen Heimeranplatz" 0.0 0.0 ellipse
+2 "Markt Schwaben" 0.0 0.0 ellipse
+3 "Muenchen Rosenheimer Platz" 0.0 0.0 ellipse
+4 Unterschleissheim 0.0 0.0 ellipse
+5 Muenchen-Freiham 0.0 0.0 ellipse
+6 Muenchen-Johanneskirchen 0.0 0.0 ellipse
+7 "Ottenhofen (Oberbay)" 0.0 0.0 ellipse
+8 Muenchen-Untermenzing 0.0 0.0 ellipse
+9 Altenerding 0.0 0.0 ellipse
+10 Hohenschaeftlarn 0.0 0.0 ellipse
+11 "Markt Indersdorf" 0.0 0.0 ellipse
+12 Tuerkenfeld 0.0 0.0 ellipse
+13 Kleinberghofen 0.0 0.0 ellipse
+14 "Dachau Stadt" 0.0 0.0 ellipse
+15 Hebertshausen 0.0 0.0 ellipse
+16 Hohenbrunn 0.0 0.0 ellipse
+17 Gauting 0.0 0.0 ellipse
+18 Maisach 0.0 0.0 ellipse
+19 Germering-Unterpfaffenhofen 0.0 0.0 ellipse
+20 Muenchen-Hackerbruecke 0.0 0.0 ellipse
+21 Ottobrunn 0.0 0.0 ellipse
+22 Lochham 0.0 0.0 ellipse
+23 Lohhof 0.0 0.0 ellipse
+24 Taufkirchen 0.0 0.0 ellipse
+25 "Muenchen-Laim Pbf" 0.0 0.0 ellipse
+26 Zorneding 0.0 0.0 ellipse
+27 Geltendorf 0.0 0.0 ellipse
+28 "Muenchen Leienfelsstrasse" 0.0 0.0 ellipse
+29 Freising 0.0 0.0 ellipse
+30 Muenchen-Englschalking 0.0 0.0 ellipse
+31 "Grub (Oberbay)" 0.0 0.0 ellipse
+32 Hallbergmoos 0.0 0.0 ellipse
+33 "Schwabhausen (b Dachau)" 0.0 0.0 ellipse
+34 Muenchen-Perlach 0.0 0.0 ellipse
+35 Unterhaching 0.0 0.0 ellipse
+36 Harthaus 0.0 0.0 ellipse
+37 "Muenchen Donnersbergerbrueke" 0.0 0.0 ellipse
+38 Vaterstetten 0.0 0.0 ellipse
+39 "Neufahm (b Freising)" 0.0 0.0 ellipse
+40 Grafrath 0.0 0.0 ellipse
+41 Wolfratshausen 0.0 0.0 ellipse
+42 "Pulling (b Freising)" 0.0 0.0 ellipse
+43 Steinebach 0.0 0.0 ellipse
+44 Kreuzstrasse 0.0 0.0 ellipse
+45 "Muenchen Marienplatz" 0.0 0.0 ellipse
+46 Eching 0.0 0.0 ellipse
+47 Esting 0.0 0.0 ellipse
+48 Gronsdorf 0.0 0.0 ellipse
+49 Neubiberg 0.0 0.0 ellipse
+50 "Grosshesselohe Isartalbahnhof" 0.0 0.0 ellipse
+51 Deisenhofen 0.0 0.0 ellipse
+52 "Muenchen Siemenswerke" 0.0 0.0 ellipse
+53 Erding 0.0 0.0 ellipse
+54 Muenchen-Karlsfeld 0.0 0.0 ellipse
+55 Tutzing 0.0 0.0 ellipse
+56 Bachern 0.0 0.0 ellipse
+57 Sauerlach 0.0 0.0 ellipse
+58 Roehrmoos 0.0 0.0 ellipse
+59 Arnbach 0.0 0.0 ellipse
+60 "Muenchen Karlsplatz" 0.0 0.0 ellipse
+61 Seefeld-Hechendorf 0.0 0.0 ellipse
+62 Mammendorf 0.0 0.0 ellipse
+63 Fasanenpark 0.0 0.0 ellipse
+64 Muenchen-Feldmoching 0.0 0.0 ellipse
+65 Icking 0.0 0.0 ellipse
+66 Hoellriegelskreuth 0.0 0.0 ellipse
+67 Muenchen-Neuaubing 0.0 0.0 ellipse
+68 "Eichenau (Oberbay)" 0.0 0.0 ellipse
+69 Fuerstenfeldbruck 0.0 0.0 ellipse
+70 "Feldkirchen (b Muenchen)" 0.0 0.0 ellipse
+71 Muenchen-Obermenzing 0.0 0.0 ellipse
+72 Puchheim 0.0 0.0 ellipse
+73 Gernlinden 0.0 0.0 ellipse
+74 Ebersgerg 0.0 0.0 ellipse
+75 Haar 0.0 0.0 ellipse
+76 Muenchen-Solln 0.0 0.0 ellipse
+77 Poing 0.0 0.0 ellipse
+78 Muenchen-Aubing 0.0 0.0 ellipse
+79 Unterfoehring 0.0 0.0 ellipse
+80 Muenchen-Moosach 0.0 0.0 ellipse
+81 Altomuenster 0.0 0.0 ellipse
+82 Muenchen-Lochhausen 0.0 0.0 ellipse
+83 Erdweg 0.0 0.0 ellipse
+84 Muenchen-Mittersendling 0.0 0.0 ellipse
+85 "Flughafen Muenchen Besucherpark" 0.0 0.0 ellipse
+86 Herrsching 0.0 0.0 ellipse
+87 "Furth (b. Deisenhofen)" 0.0 0.0 ellipse
+88 Possenhofen 0.0 0.0 ellipse
+89 Niederroth 0.0 0.0 ellipse
+90 Muenchen-Fasanerie 0.0 0.0 ellipse
+91 "Muenchen-Neuperlach Sued" 0.0 0.0 ellipse
+92 "Muenchen Harras" 0.0 0.0 ellipse
+93 Ebenhausen-Schaeftlarn 0.0 0.0 ellipse
+94 Ismaning 0.0 0.0 ellipse
+95 Waechterhof 0.0 0.0 ellipse
+96 Kirchseeon 0.0 0.0 ellipse
+97 Groebenzell 0.0 0.0 ellipse
+98 Muenchen-Westkreuz 0.0 0.0 ellipse
+99 Muenchen-Fasangarten 0.0 0.0 ellipse
+100 "Petershausen (Oberlay)" 0.0 0.0 ellipse
+101 Muenchen-Giesing 0.0 0.0 ellipse
+102 "Wessling (Oberbay)" 0.0 0.0 ellipse
+103 Buchenhain 0.0 0.0 ellipse
+104 Muenchen-Trudering 0.0 0.0 ellipse
+105 "Muenchen St Martin Strasse" 0.0 0.0 ellipse
+106 Oberschleissheim 0.0 0.0 ellipse
+107 Geisenbrunn 0.0 0.0 ellipse
+108 "Muenchen Isartor" 0.0 0.0 ellipse
+109 Baldham 0.0 0.0 ellipse
+110 Duerrnhaar 0.0 0.0 ellipse
+111 "Muenchen Hbf" 0.0 0.0 ellipse
+112 "Muenchen-Berg am Laim" 0.0 0.0 ellipse
+113 Muenchen-Langwied 0.0 0.0 ellipse
+114 Aying 0.0 0.0 ellipse
+115 Olching 0.0 0.0 ellipse
+116 Otterfing 0.0 0.0 ellipse
+117 "Planegg (Krailling)" 0.0 0.0 ellipse
+118 Starnberg 0.0 0.0 ellipse
+119 Eglharting 0.0 0.0 ellipse
+120 "Dachau Bahnhof" 0.0 0.0 ellipse
+121 Graefelfing 0.0 0.0 ellipse
+122 Stockdorf 0.0 0.0 ellipse
+123 Baierbrunn 0.0 0.0 ellipse
+124 "Muenchen-Riem Pbf" 0.0 0.0 ellipse
+125 Hoehenkirchen-Siegertsbrunn 0.0 0.0 ellipse
+126 Vierkirchen-Esterhofen 0.0 0.0 ellipse
+127 "Flughafen Muenchen" 0.0 0.0 ellipse
+128 Muenchen-Daglfing 0.0 0.0 ellipse
+129 "Muenchen Leuchtenbergring" 0.0 0.0 ellipse
+130 Heimstetten 0.0 0.0 ellipse
+131 Muenchen-Hirschgarten 0.0 0.0 ellipse
+132 Gilching-Argelsried 0.0 0.0 ellipse
+133 "Malching (Oberbay)" 0.0 0.0 ellipse
+134 Pullach 0.0 0.0 ellipse
+135 "Grafing Stadt" 0.0 0.0 ellipse
+136 Feldafing 0.0 0.0 ellipse
+137 "Buchenau (Oberbay)" 0.0 0.0 ellipse
+138 Grosshelfendorf 0.0 0.0 ellipse
+139 Neugilching 0.0 0.0 ellipse
+140 Peiss 0.0 0.0 ellipse
+141 "St. Koloman" 0.0 0.0 ellipse
+142 Muenchen-Allach 0.0 0.0 ellipse
+143 "Grafing Bahnhof" 0.0 0.0 ellipse
+144 "Aufhausen (b Erding)" 0.0 0.0 ellipse
+145 Holzkirchen 0.0 0.0 ellipse
+146 Schoengeising 0.0 0.0 ellipse
+147 Muenchen-Pasing 0.0 0.0 ellipse
+148 Starnberg-Nord 0.0 0.0 ellipse
+149 "Muenchen Ost" 0.0 0.0 ellipse
+*edges
+1 84 1.0
+1 92 1.0
+1 131 1.0
+1 147 1.0
+2 77 1.0
+2 7 1.0
+3 149 1.0
+3 108 1.0
+4 23 1.0
+4 106 1.0
+5 67 1.0
+5 36 1.0
+6 30 1.0
+6 79 1.0
+7 141 1.0
+8 142 1.0
+8 71 1.0
+9 144 1.0
+9 53 1.0
+10 123 1.0
+10 93 1.0
+11 59 1.0
+11 89 1.0
+12 27 1.0
+12 40 1.0
+13 83 1.0
+13 81 1.0
+14 56 1.0
+14 120 1.0
+15 120 1.0
+15 58 1.0
+16 21 1.0
+16 95 1.0
+17 148 1.0
+17 122 1.0
+18 133 1.0
+18 73 1.0
+19 107 1.0
+19 36 1.0
+20 111 1.0
+20 131 1.0
+21 49 1.0
+22 98 1.0
+22 121 1.0
+23 46 1.0
+24 87 1.0
+24 35 1.0
+25 71 1.0
+25 37 1.0
+25 80 1.0
+25 147 1.0
+26 109 1.0
+26 119 1.0
+28 147 1.0
+28 78 1.0
+29 42 1.0
+30 128 1.0
+31 77 1.0
+31 130 1.0
+32 85 1.0
+32 94 1.0
+33 56 1.0
+33 89 1.0
+34 91 1.0
+34 101 1.0
+35 63 1.0
+37 131 1.0
+38 109 1.0
+38 75 1.0
+39 46 1.0
+39 85 1.0
+39 42 1.0
+40 146 1.0
+41 65 1.0
+43 102 1.0
+43 61 1.0
+44 138 1.0
+45 60 1.0
+45 108 1.0
+47 73 1.0
+47 115 1.0
+48 75 1.0
+48 104 1.0
+49 91 1.0
+50 76 1.0
+50 134 1.0
+51 57 1.0
+51 87 1.0
+52 76 1.0
+52 84 1.0
+54 120 1.0
+54 142 1.0
+55 136 1.0
+57 116 1.0
+58 126 1.0
+59 83 1.0
+60 111 1.0
+61 86 1.0
+62 133 1.0
+63 99 1.0
+64 90 1.0
+64 106 1.0
+65 93 1.0
+66 103 1.0
+66 134 1.0
+67 98 1.0
+68 72 1.0
+68 69 1.0
+69 137 1.0
+70 124 1.0
+70 130 1.0
+72 78 1.0
+74 135 1.0
+79 94 1.0
+80 90 1.0
+82 97 1.0
+82 113 1.0
+84 92 1.0
+85 127 1.0
+88 118 1.0
+88 136 1.0
+95 125 1.0
+96 143 1.0
+96 119 1.0
+97 115 1.0
+98 147 1.0
+99 101 1.0
+100 126 1.0
+101 105 1.0
+102 139 1.0
+103 123 1.0
+104 112 1.0
+105 149 1.0
+107 132 1.0
+110 125 1.0
+110 114 1.0
+112 124 1.0
+112 129 1.0
+113 147 1.0
+114 140 1.0
+116 145 1.0
+117 121 1.0
+117 122 1.0
+118 148 1.0
+128 129 1.0
+129 149 1.0
+132 139 1.0
+135 143 1.0
+137 146 1.0
+138 140 1.0
+141 144 1.0

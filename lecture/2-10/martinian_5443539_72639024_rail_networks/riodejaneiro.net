@@ -1,0 +1,209 @@
+*vertices 102
+1 "Jardim Guapimirim" 0.0 0.0 ellipse
+2 "Augusto Vasconcelos" 0.0 0.0 ellipse
+3 Olaria 0.0 0.0 ellipse
+4 Pilares 0.0 0.0 ellipse
+5 "Costa Barros" 0.0 0.0 ellipse
+6 "Manoel Belo" 0.0 0.0 ellipse
+7 "Honorio Gurgel" 0.0 0.0 ellipse
+8 Jororo 0.0 0.0 ellipse
+9 Maracana 0.0 0.0 ellipse
+10 "Edson Passos" 0.0 0.0 ellipse
+11 Mage 0.0 0.0 ellipse
+12 "Parada Bananal" 0.0 0.0 ellipse
+13 "Campos Eliseos" 0.0 0.0 ellipse
+14 Mangueira/Jamelao 0.0 0.0 ellipse
+15 "Magalhaes Bastos" 0.0 0.0 ellipse
+16 Manguinhos 0.0 0.0 ellipse
+17 Quintino 0.0 0.0 ellipse
+18 "Tancredo Neves" 0.0 0.0 ellipse
+19 "Marechal Hermes" 0.0 0.0 ellipse
+20 "Parada Angelica" 0.0 0.0 ellipse
+21 Queimados 0.0 0.0 ellipse
+22 "Vila Inhomirim" 0.0 0.0 ellipse
+23 Deodoro 0.0 0.0 ellipse
+24 "Praca da Bandeira" 0.0 0.0 ellipse
+25 Cascadura 0.0 0.0 ellipse
+26 Cavalcanti 0.0 0.0 ellipse
+27 Meier 0.0 0.0 ellipse
+28 "Oswaldo Cruz" 0.0 0.0 ellipse
+29 Anchieta 0.0 0.0 ellipse
+30 Iriri 0.0 0.0 ellipse
+31 "Vila Rosali" 0.0 0.0 ellipse
+32 Santissimo 0.0 0.0 ellipse
+33 Imbarie 0.0 0.0 ellipse
+34 "Pavuna/S. J. de Meriti" 0.0 0.0 ellipse
+35 Japeri 0.0 0.0 ellipse
+36 Saracuruna 0.0 0.0 ellipse
+37 "Parada Modelo" 0.0 0.0 ellipse
+38 "Sao Cristovao" 0.0 0.0 ellipse
+39 Fragoso 0.0 0.0 ellipse
+40 "Engenho Novo" 0.0 0.0 ellipse
+41 Bangu 0.0 0.0 ellipse
+42 "Silva Freire" 0.0 0.0 ellipse
+43 "Parque Estrela" 0.0 0.0 ellipse
+44 Cosmos 0.0 0.0 ellipse
+45 Riachuelo 0.0 0.0 ellipse
+46 Bonsucesso 0.0 0.0 ellipse
+47 Paracambi 0.0 0.0 ellipse
+48 "Presidente Juscelino" 0.0 0.0 ellipse
+49 "Central Do Brasil" 0.0 0.0 ellipse
+50 "Nova Iguacu" 0.0 0.0 ellipse
+51 "Tomas Coelho" 0.0 0.0 ellipse
+52 Mesquita 0.0 0.0 ellipse
+53 "Corte Oito" 0.0 0.0 ellipse
+54 Inhoaiba 0.0 0.0 ellipse
+55 "Prefeito Bento Ribeiro" 0.0 0.0 ellipse
+56 "Rocha Miranda" 0.0 0.0 ellipse
+57 "Del Castilho" 0.0 0.0 ellipse
+58 Surui 0.0 0.0 ellipse
+59 "Guilherme da Silveira" 0.0 0.0 ellipse
+60 "Bras de Pina" 0.0 0.0 ellipse
+61 Guapimirim 0.0 0.0 ellipse
+62 "Agostinho Porto" 0.0 0.0 ellipse
+63 "Santa Cruz" 0.0 0.0 ellipse
+64 Madureira 0.0 0.0 ellipse
+65 "Benjamim do Monte" 0.0 0.0 ellipse
+66 Olinda 0.0 0.0 ellipse
+67 Austin 0.0 0.0 ellipse
+68 Lages 0.0 0.0 ellipse
+69 Jacarezinho 0.0 0.0 ellipse
+70 "Penha Circular" 0.0 0.0 ellipse
+71 "Comendador Soares" 0.0 0.0 ellipse
+72 "Vigario Geral" 0.0 0.0 ellipse
+73 "Coelho da Rocha" 0.0 0.0 ellipse
+74 "Barros Filho" 0.0 0.0 ellipse
+75 "Parada de Lucas" 0.0 0.0 ellipse
+76 Piedade 0.0 0.0 ellipse
+77 "Vila Militar" 0.0 0.0 ellipse
+78 "Mocidade/Padre Miguel" 0.0 0.0 ellipse
+79 Piabeta 0.0 0.0 ellipse
+80 "Jardim Nova Marilia" 0.0 0.0 ellipse
+81 Paciencia 0.0 0.0 ellipse
+82 "Engenheiro Pedreira" 0.0 0.0 ellipse
+83 "Parada Ideal" 0.0 0.0 ellipse
+84 Ramos 0.0 0.0 ellipse
+85 "Campo Grande" 0.0 0.0 ellipse
+86 "Ricardo de Albuquerque" 0.0 0.0 ellipse
+87 Triagem 0.0 0.0 ellipse
+88 "Sao Francisco Xavier" 0.0 0.0 ellipse
+89 "Senador Camara" 0.0 0.0 ellipse
+90 Realengo 0.0 0.0 ellipse
+91 Morabi 0.0 0.0 ellipse
+92 Citrolanda 0.0 0.0 ellipse
+93 Cordovil 0.0 0.0 ellipse
+94 Gramacho 0.0 0.0 ellipse
+95 "Belford Roxo" 0.0 0.0 ellipse
+96 "Est. Olimpica de Engenho de Dentro" 0.0 0.0 ellipse
+97 "Jardim Primavera" 0.0 0.0 ellipse
+98 Nilopolis 0.0 0.0 ellipse
+99 Penha 0.0 0.0 ellipse
+100 "Duque de Caxias" 0.0 0.0 ellipse
+101 "Mercadao de Madureira" 0.0 0.0 ellipse
+102 Sampaio 0.0 0.0 ellipse
+*edges
+1 83 1.0
+1 37 1.0
+2 32 1.0
+2 85 1.0
+3 84 1.0
+3 99 1.0
+4 57 1.0
+4 51 1.0
+5 34 1.0
+5 74 1.0
+6 33 1.0
+6 20 1.0
+7 56 1.0
+7 74 1.0
+8 92 1.0
+8 80 1.0
+9 38 1.0
+9 42 1.0
+9 87 1.0
+9 14 1.0
+10 52 1.0
+10 98 1.0
+11 30 1.0
+11 80 1.0
+12 61 1.0
+12 37 1.0
+13 94 1.0
+13 97 1.0
+14 88 1.0
+15 77 1.0
+15 90 1.0
+16 46 1.0
+16 87 1.0
+17 25 1.0
+17 76 1.0
+18 63 1.0
+18 81 1.0
+19 55 1.0
+19 23 1.0
+20 79 1.0
+21 82 1.0
+21 67 1.0
+22 39 1.0
+23 86 1.0
+23 64 1.0
+23 77 1.0
+24 38 1.0
+24 49 1.0
+25 64 1.0
+26 101 1.0
+26 51 1.0
+27 96 1.0
+27 40 1.0
+28 55 1.0
+28 64 1.0
+29 86 1.0
+29 66 1.0
+30 58 1.0
+31 34 1.0
+31 62 1.0
+32 89 1.0
+33 91 1.0
+35 82 1.0
+35 68 1.0
+36 97 1.0
+36 43 1.0
+36 91 1.0
+38 49 1.0
+39 79 1.0
+40 102 1.0
+41 89 1.0
+41 59 1.0
+42 96 1.0
+43 58 1.0
+44 54 1.0
+44 81 1.0
+45 88 1.0
+45 102 1.0
+46 84 1.0
+47 68 1.0
+48 52 1.0
+48 50 1.0
+50 71 1.0
+53 100 1.0
+53 94 1.0
+54 65 1.0
+56 101 1.0
+57 69 1.0
+59 78 1.0
+60 93 1.0
+60 70 1.0
+62 73 1.0
+64 96 1.0
+65 85 1.0
+66 98 1.0
+67 71 1.0
+69 87 1.0
+70 99 1.0
+72 100 1.0
+72 75 1.0
+73 95 1.0
+75 93 1.0
+76 96 1.0
+78 90 1.0
+83 92 1.0

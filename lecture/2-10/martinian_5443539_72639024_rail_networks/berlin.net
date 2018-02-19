@@ -1,0 +1,340 @@
+*vertices 165
+1 Hohenzollerndamm 0.0 0.0 ellipse
+2 Grunbergallee 0.0 0.0 ellipse
+3 "Heidelberger Platz" 0.0 0.0 ellipse
+4 Schoneweide 0.0 0.0 ellipse
+5 "Greifswalder Strasse" 0.0 0.0 ellipse
+6 "Brandenburger Tor" 0.0 0.0 ellipse
+7 Griebnitzsee 0.0 0.0 ellipse
+8 Baumschulenweg 0.0 0.0 ellipse
+9 Yorckstrasse 0.0 0.0 ellipse
+10 Birkenstein 0.0 0.0 ellipse
+11 Wartenberg 0.0 0.0 ellipse
+12 Bundesplatz 0.0 0.0 ellipse
+13 Noldnerplatz 0.0 0.0 ellipse
+14 Alt-Reinickendorf 0.0 0.0 ellipse
+15 Heerstrasse 0.0 0.0 ellipse
+16 Bellevue 0.0 0.0 ellipse
+17 Humboldthain 0.0 0.0 ellipse
+18 Schonholz 0.0 0.0 ellipse
+19 "Zoologischer Garten" 0.0 0.0 ellipse
+20 "Kollnische Heide" 0.0 0.0 ellipse
+21 Grunau 0.0 0.0 ellipse
+22 "Flughafen Schonefeld" 0.0 0.0 ellipse
+23 "Warschauer Strasse" 0.0 0.0 ellipse
+24 Wuhletal 0.0 0.0 ellipse
+25 Buch 0.0 0.0 ellipse
+26 Westhafen 0.0 0.0 ellipse
+27 "Blankenfelde (Kr Teltow-Flaming)" 0.0 0.0 ellipse
+28 "Innsbrucker Platz" 0.0 0.0 ellipse
+29 Spindlersfeld 0.0 0.0 ellipse
+30 "Zepernick (b Bernau)" 0.0 0.0 ellipse
+31 Karow 0.0 0.0 ellipse
+32 Blankenburg 0.0 0.0 ellipse
+33 Olympiastadion 0.0 0.0 ellipse
+34 Priesterweg 0.0 0.0 ellipse
+35 "Hackescher Markt" 0.0 0.0 ellipse
+36 Friedrichshagen 0.0 0.0 ellipse
+37 Karl-Bonhoeffer-Nervenklinik 0.0 0.0 ellipse
+38 "Konigs Wusterhausen" 0.0 0.0 ellipse
+39 Schichauweg 0.0 0.0 ellipse
+40 Pankow-Heinersdorf 0.0 0.0 ellipse
+41 Mexikoplatz 0.0 0.0 ellipse
+42 "Strausberg Nord" 0.0 0.0 ellipse
+43 Hermsdorf 0.0 0.0 ellipse
+44 "Potsdamer Platz" 0.0 0.0 ellipse
+45 Bernau-Friedenstal 0.0 0.0 ellipse
+46 Nikolassee 0.0 0.0 ellipse
+47 Babelsberg 0.0 0.0 ellipse
+48 Wildau 0.0 0.0 ellipse
+49 "Betriebsbahnhof Schoneweide" 0.0 0.0 ellipse
+50 "Hennigsdorf (b Berlin)" 0.0 0.0 ellipse
+51 Savignyplatz 0.0 0.0 ellipse
+52 "Betriebsbahnhof Rummelsburg" 0.0 0.0 ellipse
+53 "Birkenwerder (b Berlin)" 0.0 0.0 ellipse
+54 "Bernau (b Berlin)" 0.0 0.0 ellipse
+55 Hermannstrasse 0.0 0.0 ellipse
+56 Feuerbachstrasse 0.0 0.0 ellipse
+57 Tempelhof 0.0 0.0 ellipse
+58 "Petershagen Nord" 0.0 0.0 ellipse
+59 "Rathaus Steglitz" 0.0 0.0 ellipse
+60 Pichelsberg 0.0 0.0 ellipse
+61 "Wittenau (Wilhelmsruher Damm)" 0.0 0.0 ellipse
+62 Rummelsburg 0.0 0.0 ellipse
+63 Lehnitz 0.0 0.0 ellipse
+64 Planterwald 0.0 0.0 ellipse
+65 "Schulzendorf (b Tegel)" 0.0 0.0 ellipse
+66 "Teltow Stadt" 0.0 0.0 ellipse
+67 "Osdorfer Strasse" 0.0 0.0 ellipse
+68 Kaulsdorf 0.0 0.0 ellipse
+69 Spandau 0.0 0.0 ellipse
+70 Hauptbahnhof 0.0 0.0 ellipse
+71 Sudende 0.0 0.0 ellipse
+72 "Friedrichsfelde Ost" 0.0 0.0 ellipse
+73 "Potsdam Hauptbahnhof" 0.0 0.0 ellipse
+74 Zehlendorf 0.0 0.0 ellipse
+75 Tiergarten 0.0 0.0 ellipse
+76 Adlershof 0.0 0.0 ellipse
+77 Nordbahnhof 0.0 0.0 ellipse
+78 Gehrenseestrasse 0.0 0.0 ellipse
+79 "Prenzlauer Allee" 0.0 0.0 ellipse
+80 Oranienburg 0.0 0.0 ellipse
+81 Sonnenallee 0.0 0.0 ellipse
+82 Rahnsdorf 0.0 0.0 ellipse
+83 "Landsberger Allee" 0.0 0.0 ellipse
+84 Kopenick 0.0 0.0 ellipse
+85 "Buckower Chaussee" 0.0 0.0 ellipse
+86 Erkner 0.0 0.0 ellipse
+87 Schonfliess 0.0 0.0 ellipse
+88 "Strausberg Stadt" 0.0 0.0 ellipse
+89 Alexanderplatz 0.0 0.0 ellipse
+90 Schoneberg 0.0 0.0 ellipse
+91 Poelchaustrasse 0.0 0.0 ellipse
+92 Ostbahnhof 0.0 0.0 ellipse
+93 Halensee 0.0 0.0 ellipse
+94 Raoul-Wallenberg-Strasse 0.0 0.0 ellipse
+95 "Neuenhagen (b Berlin)" 0.0 0.0 ellipse
+96 Schlachtensee 0.0 0.0 ellipse
+97 Hegermuhle 0.0 0.0 ellipse
+98 Oberspree 0.0 0.0 ellipse
+99 "Lichterfelde Ost" 0.0 0.0 ellipse
+100 Lichtenrade 0.0 0.0 ellipse
+101 Strausberg 0.0 0.0 ellipse
+102 Frohnau 0.0 0.0 ellipse
+103 Julius-Leber-Brucke 0.0 0.0 ellipse
+104 Wedding 0.0 0.0 ellipse
+105 "Bergfelde (b Berlin)" 0.0 0.0 ellipse
+106 Borgsdorf 0.0 0.0 ellipse
+107 "Schonhauser Allee" 0.0 0.0 ellipse
+108 Marienfelde 0.0 0.0 ellipse
+109 Springpfuhl 0.0 0.0 ellipse
+110 Mahlow 0.0 0.0 ellipse
+111 Ostkreuz 0.0 0.0 ellipse
+112 Biesdorf 0.0 0.0 ellipse
+113 Westend 0.0 0.0 ellipse
+114 Altglienicke 0.0 0.0 ellipse
+115 Pankow 0.0 0.0 ellipse
+116 Neukolln 0.0 0.0 ellipse
+117 Jannowitzbrucke 0.0 0.0 ellipse
+118 "Lichterfelde West" 0.0 0.0 ellipse
+119 Gesundbrunnen 0.0 0.0 ellipse
+120 Waidmannslust 0.0 0.0 ellipse
+121 Friedenau 0.0 0.0 ellipse
+122 "Anhalter Bahnhof" 0.0 0.0 ellipse
+123 Stresow 0.0 0.0 ellipse
+124 Wuhlheide 0.0 0.0 ellipse
+125 Hirschgarten 0.0 0.0 ellipse
+126 Friedrichstrasse 0.0 0.0 ellipse
+127 Attilastrasse 0.0 0.0 ellipse
+128 "Frankfurter Allee" 0.0 0.0 ellipse
+129 Wilhelmshagen 0.0 0.0 ellipse
+130 "Lichterfelde Sud" 0.0 0.0 ellipse
+131 "Bornholmer Strasse" 0.0 0.0 ellipse
+132 "Treptower Park" 0.0 0.0 ellipse
+133 "Messe Nord/ICC" 0.0 0.0 ellipse
+134 "Oranienburger Strasse" 0.0 0.0 ellipse
+135 Grunewald 0.0 0.0 ellipse
+136 Mahlsdorf 0.0 0.0 ellipse
+137 Wilhelmsruh 0.0 0.0 ellipse
+138 Ahrensfelde 0.0 0.0 ellipse
+139 "Sundgauer Strasse" 0.0 0.0 ellipse
+140 Wannsee 0.0 0.0 ellipse
+141 "Hoppegarten (Mark)" 0.0 0.0 ellipse
+142 Sudkreuz 0.0 0.0 ellipse
+143 "Botanischer Garten" 0.0 0.0 ellipse
+144 Jungfernheide 0.0 0.0 ellipse
+145 Lankwitz 0.0 0.0 ellipse
+146 "Mehrower Allee" 0.0 0.0 ellipse
+147 Karlshorst 0.0 0.0 ellipse
+148 Lichtenberg 0.0 0.0 ellipse
+149 Marzahn 0.0 0.0 ellipse
+150 "Fredersdorf (b Berlin)" 0.0 0.0 ellipse
+151 Tegel 0.0 0.0 ellipse
+152 Wollankstrasse 0.0 0.0 ellipse
+153 Charlottenburg 0.0 0.0 ellipse
+154 "Hohen Neuendorf (b Berlin)" 0.0 0.0 ellipse
+155 Eichborndamm 0.0 0.0 ellipse
+156 Zeuthen 0.0 0.0 ellipse
+157 Heiligensee 0.0 0.0 ellipse
+158 "Messe Sud" 0.0 0.0 ellipse
+159 Rontgental 0.0 0.0 ellipse
+160 Eichwalde 0.0 0.0 ellipse
+161 Westkreuz 0.0 0.0 ellipse
+162 Beusselstrasse 0.0 0.0 ellipse
+163 Muhlenbeck-Monchmuhle 0.0 0.0 ellipse
+164 Hohenschonhausen 0.0 0.0 ellipse
+165 "Storkower Strasse" 0.0 0.0 ellipse
+*edges
+1 3 1.0
+1 93 1.0
+2 22 1.0
+3 12 1.0
+4 8 1.0
+4 49 1.0
+4 98 1.0
+5 79 1.0
+5 83 1.0
+6 126 1.0
+6 44 1.0
+7 47 1.0
+7 140 1.0
+8 64 1.0
+8 20 1.0
+9 142 1.0
+9 103 1.0
+9 122 1.0
+10 141 1.0
+10 136 1.0
+11 164 1.0
+12 28 1.0
+13 148 1.0
+13 111 1.0
+14 18 1.0
+14 37 1.0
+15 158 1.0
+15 33 1.0
+16 75 1.0
+16 70 1.0
+17 119 1.0
+17 77 1.0
+18 137 1.0
+18 152 1.0
+19 51 1.0
+19 75 1.0
+20 116 1.0
+21 114 1.0
+21 160 1.0
+22 114 1.0
+23 92 1.0
+23 111 1.0
+24 112 1.0
+24 68 1.0
+25 31 1.0
+25 159 1.0
+26 162 1.0
+26 104 1.0
+27 110 1.0
+28 90 1.0
+29 98 1.0
+30 45 1.0
+30 159 1.0
+31 32 1.0
+32 40 1.0
+32 163 1.0
+33 60 1.0
+34 127 1.0
+34 71 1.0
+34 142 1.0
+35 126 1.0
+35 89 1.0
+36 82 1.0
+36 125 1.0
+37 155 1.0
+38 48 1.0
+39 100 1.0
+39 85 1.0
+40 115 1.0
+41 96 1.0
+41 74 1.0
+42 88 1.0
+43 102 1.0
+43 120 1.0
+44 122 1.0
+45 54 1.0
+46 96 1.0
+46 135 1.0
+46 140 1.0
+47 73 1.0
+48 156 1.0
+49 76 1.0
+50 157 1.0
+51 153 1.0
+52 147 1.0
+52 62 1.0
+53 154 1.0
+53 106 1.0
+55 57 1.0
+55 116 1.0
+56 121 1.0
+56 59 1.0
+57 142 1.0
+58 101 1.0
+58 150 1.0
+59 143 1.0
+60 123 1.0
+61 137 1.0
+61 120 1.0
+62 111 1.0
+63 80 1.0
+63 106 1.0
+64 132 1.0
+65 151 1.0
+65 157 1.0
+66 130 1.0
+67 99 1.0
+67 130 1.0
+68 136 1.0
+69 123 1.0
+70 126 1.0
+71 145 1.0
+72 112 1.0
+72 109 1.0
+72 148 1.0
+74 139 1.0
+76 114 1.0
+77 134 1.0
+78 109 1.0
+78 164 1.0
+79 107 1.0
+81 132 1.0
+81 116 1.0
+82 129 1.0
+83 165 1.0
+84 124 1.0
+84 125 1.0
+85 108 1.0
+86 129 1.0
+87 105 1.0
+87 163 1.0
+88 97 1.0
+89 117 1.0
+90 121 1.0
+90 103 1.0
+90 142 1.0
+91 109 1.0
+91 149 1.0
+92 117 1.0
+93 161 1.0
+94 146 1.0
+94 149 1.0
+95 150 1.0
+95 141 1.0
+97 101 1.0
+99 145 1.0
+100 110 1.0
+102 154 1.0
+104 119 1.0
+105 154 1.0
+107 131 1.0
+107 119 1.0
+108 127 1.0
+111 128 1.0
+111 132 1.0
+113 133 1.0
+113 144 1.0
+115 131 1.0
+118 139 1.0
+118 143 1.0
+119 131 1.0
+124 147 1.0
+126 134 1.0
+128 165 1.0
+131 152 1.0
+133 161 1.0
+135 161 1.0
+138 146 1.0
+144 162 1.0
+151 155 1.0
+153 161 1.0
+156 160 1.0
+158 161 1.0
